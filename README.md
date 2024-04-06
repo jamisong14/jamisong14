@@ -2,7 +2,7 @@
 
 <p align="center">
 	<a href="https://github.com/jamisong14">
-		<img src="https://readme-typing-svg.herokuapp.com/?lines=Web Applications;Indie Hacker">
+		<img src="https://readme-typing-svg.herokuapp.com/?lines=Web+Applications;Indie+Hacker">
 	</a>
 </p>
 
