@@ -14,15 +14,10 @@
   <h3><b>Get in touch with me </b></h3>
   </div>
 <p align="center">
-<a href="https://www.linkedin.com/in/jamisongrudem/" target="_blank">
-  <img align="center" alt="Jamison Grudem | Linkedin" width="24px" src="https://github.com/SatYu26/SatYu26/blob/master/Assets/Linkedin.svg" />
-</a> &nbsp;&nbsp;
-<a href="https://www.x.com/jamison_grudem/" target="_blank">
-  <img align="center" alt="Jamison Grudem | Twitter" width="24px" src="https://github.com/SatYu26/SatYu26/blob/master/Assets/Twitter.svg" />
-</a> &nbsp;&nbsp;
-<a href="mailto:jamisongrudem@gmail.com" >
-  <img align="center" alt="Jamison Grudem | Gmail" width="26px" src="https://github.com/SatYu26/SatYu26/blob/master/Assets/Gmail.svg" />
-</a> &nbsp;&nbsp;
+<a href="https://www.linkedin.com/in/jamisongrudem/" target="_blank"><img align="center" alt="Jamison Grudem | Linkedin" width="24px" src="https://github.com/SatYu26/SatYu26/blob/master/Assets/Linkedin.svg" /></a> &nbsp;&nbsp;
+<a href="https://www.x.com/jamison_grudem/" target="_blank"><img align="center" alt="Jamison Grudem | Twitter" width="24px" src="https://github.com/SatYu26/SatYu26/blob/master/Assets/Twitter.svg" /></a> &nbsp;&nbsp;
+<a href="mailto:jamisongrudem@gmail.com" ><img align="center" alt="Jamison Grudem | Gmail" width="26px" src="https://github.com/SatYu26/SatYu26/blob/master/Assets/Gmail.svg" /></a> &nbsp;&nbsp;
+
 <p>
 <p align="center">
   <img src="https://github.com/StefanosSt/StefanosSt/blob/main/github-user-contribution.svg" alt="snake">
